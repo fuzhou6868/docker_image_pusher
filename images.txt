@@ -1,1 +1,2 @@
 lscr.io/linuxserver/chromium:latest
+ghcr.io/browserbox/browserbox
