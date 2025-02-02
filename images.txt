@@ -1,3 +1,5 @@
 lscr.io/linuxserver/chromium:latest
 ghcr.io/browserbox/browserbox
 ollama/ollama:latest
+postgres:latest
+freshrss/freshrss:latest
