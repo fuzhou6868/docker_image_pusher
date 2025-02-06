@@ -3,3 +3,4 @@ ghcr.io/browserbox/browserbox
 ollama/ollama:latest
 postgres:latest
 freshrss/freshrss:latest
+ddsderek/xiaoya-115cleaner:latest
